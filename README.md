@@ -24,10 +24,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0203-remove-linked-list-elements) |
 ## Divide and Conquer
 |  |

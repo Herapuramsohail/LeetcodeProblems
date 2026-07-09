@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0190-reverse-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0415-add-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->

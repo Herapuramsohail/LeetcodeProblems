@@ -11,11 +11,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0415-add-strings) |
 ## Trie
 |  |
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0190-reverse-bits) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->

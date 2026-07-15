@@ -62,4 +62,12 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0242-valid-anagram) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

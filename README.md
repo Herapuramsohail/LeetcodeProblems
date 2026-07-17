@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0053-maximum-subarray) |
+| [0905-sort-array-by-parity](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0242-valid-anagram) |
+| [0905-sort-array-by-parity](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,4 +74,8 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0374-guess-number-higher-or-lower) |
+## Two Pointers
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->

@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0905-sort-array-by-parity](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
@@ -77,5 +78,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0027-remove-element) |
 | [0905-sort-array-by-parity](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->

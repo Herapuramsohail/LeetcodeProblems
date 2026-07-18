@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0905-sort-array-by-parity](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
@@ -44,11 +45,13 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 ## Math
 |  |
 | ------- |
@@ -81,9 +84,14 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0905-sort-array-by-parity](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0011-container-with-most-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

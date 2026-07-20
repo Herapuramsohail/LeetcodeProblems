@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0905-sort-array-by-parity](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |

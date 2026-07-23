@@ -13,6 +13,7 @@
 | [0042-trapping-rain-water](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0905-sort-array-by-parity](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
@@ -92,6 +94,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0905-sort-array-by-parity](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |

@@ -15,6 +15,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0905-sort-array-by-parity](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [0015-3sum](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | [0125-valid-palindrome](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0905-sort-array-by-parity](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |

@@ -14,6 +14,7 @@
 | [0053-maximum-subarray](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -99,6 +100,7 @@
 | [0042-trapping-rain-water](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy

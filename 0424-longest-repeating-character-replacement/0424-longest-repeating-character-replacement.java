@@ -16,11 +16,6 @@ class Solution {
             }
             maxLength = Math.max(maxLength, right - left + 1);
             right++;
-            
-        }return maxLength;
-
-        
-
-        
+        }return maxLength;     
     }
 }

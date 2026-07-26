@@ -25,6 +25,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0242-valid-anagram](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0567-permutation-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 | [0125-valid-palindrome](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -121,5 +124,6 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Herapuramsohail/LeetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
